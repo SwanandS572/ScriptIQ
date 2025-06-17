@@ -71,7 +71,7 @@ function Billing() {
                 Free
               </h2>
               <p className="mb-6">
-                <strong className="text-4xl font-semibold text-gray-900">0$</strong>
+                <strong className="text-4xl font-semibold text-gray-900">Rs 0</strong>
                 <span className="text-sm font-normal text-gray-600 ml-1">/month</span>
               </p>
             </div>
@@ -147,7 +147,7 @@ function Billing() {
                 Monthly
               </h2>
               <p className="mb-6">
-                <strong className="text-4xl font-semibold text-gray-900">9.99$</strong>
+                <strong className="text-4xl font-semibold text-gray-900">Rs 100</strong>
                 <span className="text-sm font-normal text-gray-600 ml-1">/month</span>
               </p>
             </div>

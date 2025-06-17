@@ -9,8 +9,6 @@
     <a href="#-how-it-works">How It Works</a>
   </p>
   
-  [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=YOUR_REPO_URL)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 </div>
 
@@ -174,11 +172,37 @@ scriptiq/
 
 ## 📸 Screenshots
 
-*(Add your screenshots here with brief descriptions)*
-- **Landing Page**: Showcase of features and call-to-action
-- **Dashboard**: Overview of recent generations and quick actions
-- **Content Editor**: Interface for creating and editing content
-- **History**: List of all generated content with filtering options
+<div align="center">
+
+### 🌟 Landing Page
+![Landing Page](/images/landing%20page.png)
+*The welcoming interface that introduces users to ScriptIQ's features and capabilities*
+
+### 📊 Dashboard
+![Dashboard](/images/dashboard.png)
+*User dashboard showing an overview of recent activities and quick access to content generation*
+
+### ✍️ Content Editor
+![Content Editor](/images/Content%20Editor.png)
+*Interactive editor where users can create and refine AI-generated content*
+
+### 📜 History
+![History](/images/History.png)
+*Comprehensive history of all generated content with search and filter options*
+
+### 💰 Billing
+![Billing](/images/Billings.png)
+*Simple and transparent billing interface for subscription management*
+
+### ⚙️ Settings
+![Settings](/images/Settings.png)
+*User preferences and account configuration panel*
+
+### 💳 Payment Gateway
+![Payment Gateway](/images/Payment%20Gateway.png)
+*Secure payment processing interface for subscription upgrades*
+
+</div>
 
 ## 🤝 Contributing
 
@@ -190,15 +214,10 @@ We welcome contributions! Here's how you can help:
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a **Pull Request**
 
-Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-
 ## 👨‍💻 Author
 
-- **Swanand Sonawane**
+- **Swanand Sinnarkar**
 - GitHub: [@SwanandS572](https://github.com/SwanandS572)
-<!-- - LinkedIn: [Swanand ](https://linkedin.com/in/swanand-) -->
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
@@ -208,12 +227,6 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [Drizzle ORM](https://orm.drizzle.team/) for database interactions
 - All the amazing open-source libraries that made this project possible
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/scriptiq&type=Date)](https://star-history.com/#yourusername/scriptiq&Date)
-
----
 
 <div align="center">
   Made with ❤️ using Next.js, TypeScript, and Tailwind CSS

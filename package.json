@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "db:push": "drizzle-kit push",
-    "db:studio": "drizzle-kit studio --host localhost"
+    "db:studio": ".\\scripts\\db-studio.bat"
   },
   "dependencies": {
     "@clerk/nextjs": "^6.20.2",
@@ -20,6 +20,7 @@
     "axios": "^1.10.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "dotenv": "^16.5.0",
     "drizzle-orm": "^0.44.2",
     "lucide-react": "^0.511.0",
     "moment": "^2.30.1",
@@ -35,6 +36,7 @@
     "@types/node": "^20.17.57",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "cross-env": "^7.0.3",
     "drizzle-kit": "^0.31.1",
     "tailwindcss": "^4",
     "tw-animate-css": "^1.3.2",
