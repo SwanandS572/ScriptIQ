@@ -120,7 +120,7 @@
 ## 📂 Project Structure
 
 ```
-scriptiq/
+ai-content-generator-app/
 ├── app/                    # App router pages
 │   ├── (auth)/             # Authentication routes
 │   ├── (dashboard)/        # Protected dashboard routes
@@ -188,19 +188,20 @@ scriptiq/
 
 ### 📜 History
 ![History](https://raw.githubusercontent.com/SwanandS572/ScriptIQ/main/public/images/History.png)
-*Comprehensive history of all generated content with search and filter options*
+*Comprehensive history of all generated content*
 
 ### 💰 Billing
 ![Billing](https://raw.githubusercontent.com/SwanandS572/ScriptIQ/main/public/images/Billings.png)
 *Simple and transparent billing interface for subscription management*
 
+### 💳 Payment Gateway
+![Payment Gateway](https://raw.githubusercontent.com/SwanandS572/ScriptIQ/main/public/images/Payment%20Gateway.png)
+*Secure payment processing interface for subscription upgrades*
+
 ### ⚙️ Settings
 ![Settings](https://raw.githubusercontent.com/SwanandS572/ScriptIQ/main/public/images/Settings.png)
 *User preferences and account configuration panel*
 
-### 💳 Payment Gateway
-![Payment Gateway](https://raw.githubusercontent.com/SwanandS572/ScriptIQ/main/public/images/Payment%20Gateway.png)
-*Secure payment processing interface for subscription upgrades*
 
 </div>
 
