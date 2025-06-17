@@ -175,31 +175,31 @@ scriptiq/
 <div align="center">
 
 ### 🌟 Landing Page
-![Landing Page](/images/landing%20page.png)
+![Landing Page](https://raw.githubusercontent.com/SwanandS572/ScriptIQ/main/public/images/landing%20page.png)
 *The welcoming interface that introduces users to ScriptIQ's features and capabilities*
 
 ### 📊 Dashboard
-![Dashboard](/images/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/SwanandS572/ScriptIQ/main/public/images/dashboard.png)
 *User dashboard showing an overview of recent activities and quick access to content generation*
 
 ### ✍️ Content Editor
-![Content Editor](/images/Content%20Editor.png)
+![Content Editor](https://raw.githubusercontent.com/SwanandS572/ScriptIQ/main/public/images/Content%20Editor.png)
 *Interactive editor where users can create and refine AI-generated content*
 
 ### 📜 History
-![History](/images/History.png)
+![History](https://raw.githubusercontent.com/SwanandS572/ScriptIQ/main/public/images/History.png)
 *Comprehensive history of all generated content with search and filter options*
 
 ### 💰 Billing
-![Billing](/images/Billings.png)
+![Billing](https://raw.githubusercontent.com/SwanandS572/ScriptIQ/main/public/images/Billings.png)
 *Simple and transparent billing interface for subscription management*
 
 ### ⚙️ Settings
-![Settings](/images/Settings.png)
+![Settings](https://raw.githubusercontent.com/SwanandS572/ScriptIQ/main/public/images/Settings.png)
 *User preferences and account configuration panel*
 
 ### 💳 Payment Gateway
-![Payment Gateway](/images/Payment%20Gateway.png)
+![Payment Gateway](https://raw.githubusercontent.com/SwanandS572/ScriptIQ/main/public/images/Payment%20Gateway.png)
 *Secure payment processing interface for subscription upgrades*
 
 </div>
